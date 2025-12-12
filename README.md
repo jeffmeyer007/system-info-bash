@@ -1,15 +1,11 @@
-# ========================================
 # System Information Bash Script
-# ========================================
 
 This repository contains a Bash script that generates a full system information report for Linux systems.  
 It was created as part of **CYBIT210 – Module 14 Skills Assessment 2**.
 
 ---
 
-# ========================================
 # Features
-# ========================================
 
 This script collects and outputs the following system information:
 
@@ -31,9 +27,7 @@ All information is saved to: **`system_info.txt`**
 
 ---
 
-# ========================================
 # Usage
-# ========================================
 
 Run the script:
 
