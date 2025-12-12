@@ -59,7 +59,7 @@ echo "Last 5 error log entries:" >> "$OUTPUT"
 grep -i "error" /var/log/syslog | tail -5 >> "$OUTPUT" 2>/dev/null
 echo "" >> "$OUTPUT"
 
-# Report Timestamp
+# Generate Report Timestamp
 echo "Report Information:" >> "$OUTPUT"
 echo "Generated on: $(date)" >> "$OUTPUT"
 echo "" >> "$OUTPUT"
